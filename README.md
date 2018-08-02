@@ -24,3 +24,6 @@ Things you may want to cover:
 * ...
 
 Deployment in AWS
+Ruby Version 2.3.1
+Rails Version 5.2.10
+DB: Myql
