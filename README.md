@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Ruby Version 2.3.1
+Rails Version 5.2.10
+DB: Myql
